@@ -1,2 +1,5 @@
 hello
 this file is master repo demo file
+
+text added by the client to fix a problem
+
